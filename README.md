@@ -2,9 +2,14 @@
 
 This is support account of [There's an AI](https://theresanai.com) on GitHub.
 
-You can reach us on:
+🌱 Our Products:
 
-- [There's an AI ](https://theresanai.com) website
+- ✨[There's an AI ](https://theresanai.com)✨
+- ✨[There's an AI Newsletter](https://newsletter.theresanai.com)✨
+- ✨[There's an AI Review](https://review.theresanai.com)✨ 
+
+
+📫 How to reach us:
 - [Twitter](https://x.com/theresanaitools)
 - [GitHub](https://github.com/theresanai)
 - [AlternativeTo](https://alternativeto.net/software/there-s-an-ai/about/)
