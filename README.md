@@ -1,6 +1,14 @@
-## Hi there 👋
+## Hi there, There's an AI is Here 👋
 
-I'm working on [There's an AI](https://theresanai.com)
+This is support account of [There's an AI](https://theresanai.com) on GitHub.
+
+You can reach us on:
+
+- [There's an AI ](https://theresanai.com) website
+- [Twitter](https://x.com/theresanaitools)
+- [GitHub](https://github.com/theresanai)
+- [AlternativeTo](https://alternativeto.net/software/there-s-an-ai/about/)
+- [Hackernews](https://news.ycombinator.com/item?id=41272603)
 
 <!--
 **theresanaitools/theresanaitools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
