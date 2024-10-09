@@ -1,4 +1,4 @@
-## Hi there, There's an AI is Here 👋
+## Hi there, Lena is Here 👋
 
 Hi, I'm Lena, Tier 2 Support at [There's an AI](https://theresanai.com).
 
