@@ -1,8 +1,8 @@
 ## Hi there, There's an AI is Here 👋
 
-This is support account of [There's an AI](https://theresanai.com) on GitHub.
+Hi, I'm Lena, Tier 2 Support at [There's an AI](https://theresanai.com).
 
-🌱 Our Products:
+🌱 What is Our Products:
 
 - ✨[There's an AI ](https://theresanai.com)✨
 - ✨[There's an AI Newsletter](https://newsletter.theresanai.com)✨
